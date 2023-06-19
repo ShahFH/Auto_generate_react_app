@@ -1,4 +1,4 @@
-# Auto_generate_react_app
+#📌 Auto_generate_react_app
 
 # React App with Tailwind CSS Setup Script
 
