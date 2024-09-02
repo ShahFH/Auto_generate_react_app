@@ -31,7 +31,5 @@ Before using this script, make sure you have the following installed:
 
 Feel free to modify the script to fit your specific requirements. You can customize the installation process, add additional configurations, or include other dependencies based on your project needs.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
